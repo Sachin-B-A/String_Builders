@@ -1,5 +1,5 @@
 
-# StringBuilder Functions in Java
+# StringBuilder Functions in Java.
 
 The `StringBuilder` class in Java provides a mutable sequence of characters, making it efficient for string manipulation, especially in DSA problems. Below are commonly used `StringBuilder` functions along with example's.
 
